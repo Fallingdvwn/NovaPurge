@@ -1,0 +1,9 @@
+--MUST HAVE A BOOMBOX FOR SOUNDS
+--ALSO USE GODV3 SO THE SOUNDS ARE FE
+--[[
+X - Go invis
+B - Jumpscare 
+Q - Play humming sound | 
+Z - Play footsteps sound
+]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fallingdvwn/NovaPurge/main/NovaMimicOBF", true))()
